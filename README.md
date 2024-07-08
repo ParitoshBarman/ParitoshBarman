@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **React, Node.js, Express.js**
 
-💬 Ask me about **HTML, CSS, JavaScript, Python**
+💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, Express.js, DSA, Python**
 
 
 
