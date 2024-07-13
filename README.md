@@ -12,7 +12,7 @@
  
  🔭 I’m currently studying in **Prepleaf by Masai**
  
- 🌱 I’m currently learning **Node.js, Express.js**
+ 🌱 I’m currently learning **MongoDB**
 
 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, Express.js, DSA, Python, MongoDB**
 
