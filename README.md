@@ -12,9 +12,9 @@
  
  🔭 I’m currently studying in **Prepleaf by Masai**
  
- 🌱 I’m currently working as a **Senior Software Development**
+ 🌱 I’m currently working as a **Freelancer**
 
-💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, Express.js, DSA, Python, MongoDB, Django**
+💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Node.js, Express.js, MongoDB, DSA, Python, Django**
 
 
 
