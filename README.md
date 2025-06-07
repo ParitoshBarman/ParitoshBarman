@@ -3,6 +3,25 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Paritosh+Barman!;" />
 </h1>
+
+<h3 align="center">A passionate full stack developer from India</h3>
+
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently studying in **Prepleaf by Masai**
+ 
+ 🌱 I’m currently working as a **Freelancer**
+
+💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Node.js, Express.js, MongoDB, DSA, Python, Django**
+
+
+
+ </div>
+
+
+
 ---
 
 ### 👨‍💻 About Me
@@ -20,21 +39,7 @@ I love clean code, minimal UIs, and solving complex problems through smart engin
 
 ---
 
-<h3 align="center">A passionate full stack developer from India</h3>
 
-<br/>
-
-<div align="center">
- 
- 🔭 I’m currently studying in **Prepleaf by Masai**
- 
- 🌱 I’m currently working as a **Freelancer**
-
-💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Node.js, Express.js, MongoDB, DSA, Python, Django**
-
-
-
- </div>
  
 <div align="center"> 
   <a href="mailto:barmanpari163@gmail.com">
