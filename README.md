@@ -3,6 +3,22 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Paritosh+Barman!;" />
 </h1>
+---
+
+### 👨‍💻 About Me
+
+Hi, I'm **Paritosh Barman** — a passionate Full Stack Developer from **India** with hands-on experience in building real-world applications using the **MERN Stack**. I’ve developed **500+ projects** across web, Python, and IoT domains, including scalable full-stack platforms for civic engagement, field tracking, and business automation.
+
+I'm currently:
+- 🎓 Studying Full Stack Development at **Prepleaf by Masai**
+- 💼 Working as a **Freelancer** building production-ready web apps
+- 🚀 Exploring real-time apps, microservices, and scalable backend architectures
+
+I love clean code, minimal UIs, and solving complex problems through smart engineering.
+
+> 🧠 "Build first, polish later – learn every step of the way."  
+
+---
 
 <h3 align="center">A passionate full stack developer from India</h3>
 
