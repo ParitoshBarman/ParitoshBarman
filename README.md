@@ -14,7 +14,7 @@
  
  🌱 I’m currently working as a **Freelancer**
 
-💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Node.js, Express.js, MongoDB, DSA, Python, Django**
+💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Node.js, Express.js, MongoDB, DSA, Python**
 
 
 
