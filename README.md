@@ -8,12 +8,12 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center"> -->
  🔭 I’m currently working at **DesignDot Technologies** as a Full Stack Developer  
  🌱 I’m building **production-ready web applications** using React, Next.js, Node.js, TypeScript, and PostgreSQL  
  💬 Ask me about **JavaScript, React, Node.js, TypeScript, Prisma, PostgreSQL, MongoDB, REST APIs, DSA**  
  🚀 I love **clean code, scalable architectures, and solving real-world problems**
-</div>
+<!-- </div> -->
 
 <br/>
 
@@ -96,3 +96,7 @@ Currently, I am:
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ParitoshBarman&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
 </div>
+
+
+
+<hr/> <div align="center"> <h2>🐍 My Contributions 🐍</h2> <br> <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ParitoshBarman/ParitoshBarman/output/github-contribution-grid-snake.svg" /> <br/><br/><br/> </div>
