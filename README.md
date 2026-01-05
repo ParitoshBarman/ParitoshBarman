@@ -74,19 +74,11 @@ Currently, I am:
 
 ---
 
-### 🛠️ Personal Projects
+### 🛠️ Projects
 
-**Smart Field Manager** *(May 2025)* – B2B Field Sales Tracking Platform  
-- Real-time tracking of field sales executives  
-- **JWT-based role access**, Leaflet maps, instant communication (calls & WhatsApp), business document uploads  
-- **Tech:** React.js, Vite, Node.js, Express, MongoDB, JWT, Multer, Context API, React Router  
-- [Live Demo](https://smart-field-manager.netlify.app) | [GitHub](https://github.com/ParitoshBarman/Smart-Field-Manager)
+I’ve built multiple full-stack and real-world applications across various domains, including **field sales tracking, civic engagement, and business management**.  
 
-**Local Democracy Platform** *(May 2025)* – Civic Engagement & Voting Platform  
-- Secure platform for voting, notifications, and feedback  
-- **JWT authentication & RBAC**, real-time updates with Socket.IO  
-- **Tech:** React.js, Redux Toolkit, Chakra UI, Node.js, Express, MongoDB, JWT, Multer, Socket.IO  
-- [Live Demo](https://local-democracy-platform.netlify.app) | [GitHub](https://github.com/ParitoshBarman/Local-Democracy-Platform)
+Check out my **pinned projects below** on my GitHub profile for live demos, source code, and tech stack details. 👇
 
 ---
 
