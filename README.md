@@ -8,12 +8,14 @@
 
 <br/>
 
-<!-- <div align="center"> -->
+ <div align="center">
+     
  🔭 I’m currently working at **DesignDot Technologies** as a Full Stack Developer  
  🌱 I’m building **production-ready web applications** using React, Next.js, Node.js, TypeScript, and PostgreSQL  
  💬 Ask me about **JavaScript, React, Node.js, TypeScript, Prisma, PostgreSQL, MongoDB, REST APIs, DSA**  
  🚀 I love **clean code, scalable architectures, and solving real-world problems**
-<!-- </div> -->
+ 
+</div>
 
 <br/>
 
